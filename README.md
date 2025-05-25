@@ -1,4 +1,4 @@
 # First-repository
 This is my first github repository
 <br>
-Author - Rudra
+Author - Rudra (Rudra repository)
